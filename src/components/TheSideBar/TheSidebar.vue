@@ -141,6 +141,7 @@ export default {
 
   data() {
     return {
+      initial: false,
       leftDrawerOpen: false,
     };
   },
